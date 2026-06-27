@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/du-bist-mein-zuhause/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Du bist mein Zuhause](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-zuhause/) |
+| **Get License** | [License this song: Du bist mein Zuhause](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-bist-mein-zuhause/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, die Lichter zieh'n vorbei, doch du bist mein Zuhause
+> Drück' das Gas auf 300, ich mach' heute keine Pause
+> Lass die ganze Stadt brenn'n, Hauptsache wir zwei
+> Deine Blicke machen süchtig, wie ein krimineller Hype
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
