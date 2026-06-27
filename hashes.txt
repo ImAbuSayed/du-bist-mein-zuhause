@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Du bist mein Zuhause
+
+This log tracks the cryptographic history and versioning for the song **Du bist mein Zuhause** (du-bist-mein-zuhause).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:38:54.376193 | `v1` | `79a358786e24f1655fb0cf68a4ef4491cdcd2d8eb24329b1a020c3c0dcff3ca5` | `a18343b803ab6312b4c990aab1dbb8985726932c50528f860073e91212475a81` | `2026-06-28_du-bist-mein-zuhause-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
